@@ -23,6 +23,8 @@ export default tseslint.config(
         'warn',
         { allowConstantExport: true },
       ],
+      // Temporary workaround: disable rule causing crashes with TS 5.6.x + typescript-eslint version mismatch
+      '@typescript-eslint/no-unused-expressions': 'off',
     },
   }
 );
