@@ -187,7 +187,7 @@ function App() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://github.com/Tabulater/Airplane-Simulator/releases/download/v1.0.0/airplane.simulator.exe"
+              href="https://github.com/Tabulater/Airplane-Simulator/releases/download/v1.0.0/Airplane.Simulator.exe.zip"
               className="bg-blue-600 hover:bg-blue-700 px-8 py-4 rounded-lg font-semibold text-lg flex items-center justify-center space-x-2 transition-all duration-300 transform hover:scale-105"
             >
               <Download className="h-5 w-5" />
@@ -288,7 +288,7 @@ function App() {
                 Download the latest version for Windows
               </p>
               <a 
-                href="https://github.com/Tabulater/Airplane-Simulator/releases/download/v1.0.0/airplane.simulator.exe" 
+                href="https://github.com/Tabulater/Airplane-Simulator/releases/download/v1.0.0/Airplane.Simulator.exe.zip" 
                 className="w-full bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-semibold flex items-center justify-center space-x-2 transition-colors"
               >
                 <Download className="h-5 w-5" />
